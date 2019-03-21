@@ -9,4 +9,7 @@ This page is responsive.
 #### `npm install @material-ui/core`
 #### `npm install @material-ui/icons`
 #### `npm install axios`
+#### `npm install bootstrap`
+#### `npm install reactstrap`
+#### `npm install `
     
