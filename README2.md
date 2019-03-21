@@ -6,7 +6,7 @@ This page is responsive.
 
 ## Dependencies
 
-### `npm install @material-ui/core`
-### `npm install @material-ui/icons`
-### `npm install axios`
+#### `npm install @material-ui/core`
+#### `npm install @material-ui/icons`
+#### `npm install axios`
     
