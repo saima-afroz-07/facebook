@@ -13,4 +13,5 @@ Images here are taken from jsonplaceholder website(as a dummy data).
 3. #### `npm install axios`
 4. #### `npm install bootstrap`
 5. #### `npm install reactstrap`
+6. #### `npm install react-modal-image`
     
