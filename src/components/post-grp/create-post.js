@@ -46,7 +46,7 @@ const styles = theme => ({
       addPost(){
         const post = this.state.value
         this.setState(prev => ({
-            posts: prev.posts.concat(post),
+            posts: [post, ...prev.posts],
             value: ''
         }))
       }
