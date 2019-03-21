@@ -3,6 +3,8 @@
 It is a project containing some of the feature of facebook news feed page. 
 It contains mutilple post where you can comment on any of it. 
 This page is responsive. 
+Here we can create new post. We can also delete the created post.
+
 Images here are taken from jsonplaceholder website(as a dummy data).
 Image will open in full screen when clicked.
 
