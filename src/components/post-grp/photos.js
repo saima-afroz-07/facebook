@@ -10,7 +10,7 @@ import CardContent from '@material-ui/core/CardContent';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography';
 import Comment from './comment'
-
+import ModalImage from 'react-modal-image';
 
 
 
@@ -75,10 +75,12 @@ class RecipeReviewCard extends React.Component {
          
          title="Name"
        />
-
-       <CardMedia
-         className={classes.media}
-         image={photo.url} />
+        <ModalImage
+         small={photo.url}
+          large={photo.url}
+          alt={photo.title}
+/>
+      
         
        <CardContent>
          
